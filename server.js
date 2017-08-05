@@ -10,11 +10,11 @@ app.get('/', function (req, res) {
 });
 
 app.get('/article-one', function(req, res) {
-    res.send('mutta parotta');
+    res.send('TAMILSELVIS SON IS SANTHOSH');
 });
 
 app.get('/article-two', function(req, res) {
-    res.send('idli');
+    res.send('SANTHOSHS MOTHER IS TAMILSELVI');
 });
 
 app.get('/article-three', function(req, res) {
