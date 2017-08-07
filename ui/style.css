@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
+    background-color: black;
     margin-top: 75px;
 }
 
@@ -20,3 +20,12 @@ body {
     height: 200px;
 }
 
+.container {
+    max-width: 799px;
+    margin: 0 auto;
+    color: white;
+    font-family: blackadder ITC;
+    padding-top: 61px;
+    padding-left: 21px;
+    padding-right: 21px;
+}
